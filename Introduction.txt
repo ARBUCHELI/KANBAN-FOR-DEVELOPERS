@@ -1,0 +1,17 @@
+# INTRODUCTION 
+--------------
+
+* Putting kanban to work in your development team
+-------------------------------------------------
+
+* What is Lean Thinking?
+------------------------
+. Kanban uses the lean mindset
+
+. Lean thinking is not a methodology
+
+. Lean thinking is a mindset based on specific values
+
+. Each value comes with thinking tools to help frame them in a project context
+
+
