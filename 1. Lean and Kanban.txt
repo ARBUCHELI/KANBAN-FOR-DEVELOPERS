@@ -1,0 +1,150 @@
+# 1. LEAN AND KANBAN
+--------------------
+
+* What is Lean Thinking?
+------------------------
+. Kanban uses the lean mindset
+
+. Lean thinking is not a methodology
+
+. Lean thinking is a mindset based on specific values
+
+. Each value comes with thinking tools to help frame them in a project context
+
+
+
+* Lean Values
+-------------
+. Eliminate waste
+
+. Amplify learning
+
+. Decide as late as possible
+
+. Deliver as fast as possible
+
+. Empower the team
+
+. Build integrity in 
+
+. See the whole
+
+
+* Value Breakdown
+-----------------
+
+	* Eliminate waste
+	-----------------
+		. Create value over processes: trim the fat, even if it goes against "the way it's done."
+
+		Thinking tools
+		--------------
+		. Seeing waste
+
+
+	* Amplify Learning
+	------------------
+		. Constantly recycle experience and feedback into the development process.
+
+		Thinking tools
+		--------------
+		. Feedback, iterations
+		
+		. Synchronization, set-based development
+
+
+	* Decide as late as possible
+	----------------------------
+		. Project decisions are the most informed with the most information.
+
+		Thinking tools
+		--------------
+		. The last responsible moment
+
+
+	* Deliver as fast as possible
+	-----------------------------
+		. Software delivery should be sustainable, not hacked together from late nights and wasteful processes
+
+		Thinking tools
+		--------------
+		. Pull systems
+
+		. Queuing theory
+	
+		. Cost of delay
+
+
+	* Build integrity in 
+	--------------------
+		. Ensure the product delivers value and intuitive experiences to customers, while staying true to its developers.
+
+		Thinking tools
+		--------------
+		. Internal: refactoring, testing
+
+		. External: perceived vs. conceptual
+
+
+	* Empower the team
+	------------------
+		. Committed teams and energized workers always trump forced marches and long nights
+
+		Thinking tools
+		--------------
+		. Self-determination, motivation
+
+		. Leadership, expertise
+
+
+	* See the whole
+	---------------
+		. Objectively assessing the macro-level status of a project is more important than building individual features
+
+		Thinking tools
+		--------------
+		. Measurements
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	

@@ -15,3 +15,78 @@
 . Each value comes with thinking tools to help frame them in a project context
 
 
+
+* Kanban principles
+-------------------
+. Start with what you do now
+
+. Agree to pursue incremental, evolutionary change
+
+. Initially, respect current roles, responsibilities, and job titles
+
+. Encourage acts of leadership at every level
+
+. TRELLO --> Popular free to use Kanban board tool.
+
+
+
+* Common Pitfalls
+-----------------
+
+Thrashing
+---------
+. Short feedback loops don't allow teams to incorporate user or process feedback into new work
+
+Repeating the grade
+-------------------
+. Bumped-back work items to repeat their way through the board is inefficient and often unnecessary
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* What you should know
+----------------------
+
+* Basic Requirements
+--------------------
+. Software development
+
+. Agile
+
+. Scrum 
+
+. Optional: lean and kanban 
+
+
+
+* Refresher Courses
+-------------------
+. Agile Software Development
+
+. Scrum: The Basics
+
+. Stay Lean with Kanban
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
