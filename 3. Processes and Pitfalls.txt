@@ -35,7 +35,20 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Avoiding bad kanban
+---------------------
 
+* Common Pitfalls
+-----------------
+
+* Thrashing
+-----------
+. Short feedback loops don't allow teams to incorporate user or process feedback into new work
+
+
+* Repeating the grade
+---------------------
+. Bumped-back work items to repeat their way through the board is inefficient and often unnecessary
 
 
 
