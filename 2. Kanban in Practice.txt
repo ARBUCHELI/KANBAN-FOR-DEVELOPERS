@@ -1,0 +1,67 @@
+# 2. Kanban in Practice
+-----------------------
+
+* Demo overview
+---------------
+
+* The Scenario
+--------------
+. You're part of a mobile development team embarking on a new video-chat app called FaceTalk
+
+. Your team has used scrum in the past but consistently delivers late, despite increased hours and skilled developers
+
+. Your team is very supportive and close-knit, but outside pressure often leads to a less-than ideal work pace
+
+
+
+* Project visualization
+-----------------------
+
+* Workflow Maps
+---------------
+. Break down the current process into its development steps
+
+. Can easily be done with pen and paper; shouldn't require anything more complex to start
+
+. Need to be as honest as possible
+
+. Take a small feature that has already been delivered and list each step of development it went through 
+
+. This small feature is called a minimum marketable feature (MMF)
+
+
+
+* Example: Workflow Map: Push Notifications
+-------------------------------------------
+
+		Gather requirements -------> Estimate and plan -------> Build Feature -------> Test and validate -------> Release
+
+
+* Limit work in progress
+------------------------
+
+* Imposing Limits
+-----------------
+. Team-based decisions on the realistic amout of work that can be done
+
+. This is a commitment from the team and an agreement with outside management
+
+. Find bottlenecks or steps where your team is overburdened, and set a hard work-item limit
+
+. Don't fall in the trap of thinking that people just aren't working fast or hard enough
+
+
+
+* Extra Time
+------------
+. If a column reaches its item limit, what do you do with team members that have extra time?
+
+. Address technical debt, refactor, or improve the development process
+
+. Have them work on clearing the colum that's causing the bottleneck, even if it's not their area
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
