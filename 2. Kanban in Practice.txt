@@ -63,5 +63,108 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Managing flow
+---------------
+
+* Imposing Limits
+-----------------
+. All good systems need tracking, maintenance, and upgrade
+
+. Flow increases or decreases based on a combination of work-in-progress limits and backlog inventory
+
+. Adding work in progress limits to multiple columns can even out overburdened or slack systems
+
+
+* Cumulative Flow Diagrams
+--------------------------
+. Graphs how work items are distributed among Kanban board columns over time
+
+. Each column is given its own color on the graph, so it's easy to visualize
+
+. Assessment of the overall project flow and possible issues
+
+
+
+* Going Further with cummulative flow diagrams
+----------------------------------------------
+. Adding arrival time and inventory data points can help pinpoint problem areas
+
+. Paired with Little's Law, a CFD can show when a stable flow is reached
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Processes and Pitfalls
+-------------------------
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
