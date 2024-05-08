@@ -108,6 +108,109 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Kanban principles
+-------------------
+
+* Kanban in practice
+--------------------
+. A method to improve a software development process
+
+. Complete with its own principles and practices
+
+. Can only be applied to an existing development process
+
+. Can have shallow (partial) or deep (full) implementations
+
+
+
+* Kanban principles
+-------------------
+. Start with what you do now
+
+. Agree to pursue incremental, evolutionary change
+
+. Initially, respect current roles, responsibilities, and job titles
+
+. Encourage acts of leadership at every level
+
+
+
+* Principle Breakdown
+--------------------
+	
+	* Start with what you do now
+	----------------------------
+		. Define how your team develops software now
+
+		. Lay out the policies, or rules and steps you typically follow
+
+		. Make sure everyone is on the same page
+
+
+	* Agree to pursue incremental, evolutionary change
+	--------------------------------------------------
+		. It's a marathon, not a sprint
+
+		. Kanban is a team sport
+	
+		. Incremental, meaningful change can only happen with everyone on board
+
+
+	* Initially, respect current roles, responsibilities, and job titles
+	--------------------------------------------------------------------
+		. Don't tear down everything because you think a blank slate will help
+
+		. Development processes are made up of different roles, and these structures are important in understanding and improving your work
+
+
+	* Encourage acts of leadership at all levels
+	--------------------------------------------
+		. You can't empower a team or get them to freely commit to the work at hand with top-down management.
+
+		. Everyone needs to have the opportunity to be valued and lead when appropriate.
+
+
+* So Why Kanban?
+----------------
+. How much value are you really delivering?
+
+. Is it what the users are asking for?
+
+. Are they deliverd on time?
+
+. Is the development pace sustainable?
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
