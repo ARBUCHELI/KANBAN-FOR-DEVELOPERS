@@ -183,6 +183,74 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Core principles
+-----------------
+
+* The Big Six
+-------------
+. Visualize
+
+. Limit work in progress (WIP)
+
+. Manage flow
+
+. Make policies explicit
+
+. Implement feedback loops
+
+. Improve collaboratively, evolve exponentially
+
+	* Visualize
+	-----------
+		. Lay out the actual development steps your team follows
+
+		. Can be done by creating value stream or workflow maps
+
+
+	* Limit WIP
+	-----------
+		. Sets limits on active work items in each column of the board
+
+		. Helps create a sustainable pace and identifies potential bottlenecks
+
+		. Creates a natural focus on the work at hand
+
+
+	* Manage Flow
+	-------------
+		. Flow is measured by how fast work items move across the board
+
+		. Good flow comes from finishing work items without overburdening the system
+
+		. Bad flow comes from bottlenecks and waste
+
+		. Maximized flow delivers work items while allowing enough time for feedback
+
+
+	* Make Policies Explicit
+	------------------------
+		. Defining the steps and rules of a development process keeps everyone honest and informed
+
+		. All policies should be clearly written out or included in the Kanban board
+
+
+	* Implement Feedback Loops
+	--------------------------
+		. Important to take stock of how process change are working
+
+		. Identify any tweaks and make sure that product feedback has enough time to make it into development
+
+	
+	* Improve Collaboratively, Evolve Exponentially
+	-----------------------------------------------
+		. It's all about change over time
+
+		. Empower your team, always amplify learning, and see the whole
+
+		. Make decisions as a unit, experiment as a team
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
