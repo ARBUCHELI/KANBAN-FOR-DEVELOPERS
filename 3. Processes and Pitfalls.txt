@@ -1,0 +1,20 @@
+3. PROCESSES AND PITFALLS
+-------------------------
+
+* Handling process policies
+---------------------------
+
+* Policy Theory
+---------------
+. Work-in-progress limits are already a sort of implicit policy
+
+. Ideally, there shouldn't be any unwritten rules or regulations
+
+	- anything important should be defined and writen down
+
+. Usually, this leads to minimal documentation, only what's needed
+
+. If you find yourself with lots of explicit policies, try looking for wast in your development process
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
